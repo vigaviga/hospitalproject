@@ -1,0 +1,12 @@
+.ResourcesContainer {
+    width: 65%;
+    margin: 0 auto 0 auto;
+    height:500px;
+    margin-top: 1.5%;
+    font-family: 'Times New Roman';
+    font-size:18px;
+}
+
+li{
+    margin-bottom: 1%;
+}

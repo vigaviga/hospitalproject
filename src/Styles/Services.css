@@ -1,0 +1,50 @@
+.ServicesContainer {
+    display:flex;
+    flex-direction: column;
+    height:100px;
+    width:70%;
+    margin: 0 auto 0 auto;
+    font-family: 'Times New Roman';
+    font-size:18px;
+    white-space: break-spaces;
+    margin-bottom:3%;
+}
+
+.TabsContainer {
+    display:flex;
+    width: 70%;
+    margin: 0 auto 0 auto;
+    height:30%;
+    margin-top: 1.5%;
+    font-family: 'Times New Roman';
+    font-size:18px;
+    padding-bottom:10%;
+}
+
+.ServiceTabs {
+    display:flex;
+    width:33%;
+    flex-direction:column;
+    justify-content:space-around;
+    height:inherit;
+    background-color:#00B0F0;
+}
+
+.TabsTextsContainer {
+    width:67%;
+}
+
+.Tab {
+    min-width:100% !important;
+    width:100% !important;
+}
+
+li{
+    margin-bottom: 1%;
+}
+
+.RequestForm {
+    color:#00B0F0;
+    text-align:center;
+    
+}

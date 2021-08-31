@@ -1,0 +1,19 @@
+.Header {
+    background-image: linear-gradient(to right, #1F7DC2, #2451A3);
+    height:130px;
+    width:80%;
+    margin: 0 auto 0 auto;
+}
+
+.TextContainer {
+    margin-left:10px;
+    color:white;
+    font: "futura medium";
+}
+.LogoAndTextContainer {
+    display:flex;
+    flex-direction: column;
+    width:30%;
+    height:100%;
+    justify-content: space-evenly;
+}
